@@ -4,11 +4,11 @@
 This task included researching employees from a corporation from the 1980s and 1990s within 6 CSV files. The following was completed: 
 
 * Data Modeling: 
-    - An ERD was created 
-    - Tables were designed to hold and organize the data - including primary and foreign keys
-    - The data was then imported into a SQL database for further analysis
+    - An ERD was created with tables designed to hold and organize the data - including primary and foreign keys
     
      ![ERD file](EmployeeSQL/EmployeeERD.png)
+     
+    - The data was then imported into a SQL database for further analysis
     
 * Data Analysis
     - Queries were written to demonstrate the following: 
@@ -21,9 +21,9 @@ This task included researching employees from a corporation from the 1980s and 1
         -  List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
         -  In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-    - The SQL database was imported into Pandas
-    - A histogram was created to visualize the most common salary ranges for employees 
-    - A bar chart was created to visualize average salary by title
+    - The SQL database was imported into Pandas to create the following visualizations: 
+        - A histogram of the most common salary ranges for employees 
+        - A bar chart of average salary by title
 
 
 Copyright
