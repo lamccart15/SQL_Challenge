@@ -8,7 +8,7 @@ This task included researching employees from a corporation from the 1980s and 1
     - Tables were designed to hold and organize the data - including primary and foreign keys
     - The data was then imported into a SQL database for further analysis
     
-     !(EmployeeSQL/Employee ERD.png)
+     ![ERD file](Employee ERD.png)
     
 * Data Analysis
     - Queries were written to demonstrate the following: 
